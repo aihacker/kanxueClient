@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">看雪论坛</string>
+    <string name="kx_desc">看雪论坛是最老资质的逆向论坛。</string>
+    <string name="kx_name">看雪论坛</string>
+    <string name="kx_link">https://bbs.pediy.com/forum-161.htm</string>
+    <string name="add">增加</string>
+    <string name="reduce">减少</string>
+    <string name="reset">重置</string>
+</resources>
